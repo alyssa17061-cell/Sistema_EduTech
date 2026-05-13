@@ -2,9 +2,7 @@
 
 PROCESSO DE SOFTWARE E ENGENHARIA DE REQUISITOS
 
-Nicolas Saldanha Lersch e
-
-Alyssa Goulart Santos
+Nicolas Saldanha Lersch e Alyssa Goulart Santos
 
   
 
@@ -21,6 +19,9 @@ Alyssa Goulart Santos
 **5. Você considera importante a correlação entre o docente e a instituição escolar para o bom rendimento escolar e interesse dos alunos? O que você consideraria uma ação entre docente e instituição que possa impactar positivamente o desempenho e interesse escolar dos alunos?**
 
 **6. Você acredita que a relação entre seus alunos pode impactar positivamente ou negativamente seu desempenho e interesse escolar? De que formas você nota ou melhora a relação entre seus alunos?**
+
+
+
 
 **Roteiro para o questionário com os discentes:**
 
@@ -74,6 +75,9 @@ Não possuo / Possuo alguns  / Possuo vários
 
 Não possuo / Possuo alguns  / Possuo vários
 
+
+
+
 **Respostas do professor(a) entrevistado:**
 
 1. Em minha percepção, o desinteresse dos estudantes pode estar relacionado a diferentes fatores, tanto internos quanto externos ao ambiente escolar. No contexto da Educação Profissional e Tecnológica, especialmente no Ensino Médio Integrado, percebo que muitos alunos apresentam dificuldades em compreender o sentido da formação integrada e a relação entre os conteúdos escolares e sua realidade concreta. Quando o estudante não consegue perceber significado no que aprende, isso tende a impactar diretamente sua motivação, frequência e desempenho acadêmico. Além disso, ambientes escolares excessivamente fragmentados, metodologias pouco participativas e currículos desarticulados podem ampliar esse distanciamento entre aluno e escola.
@@ -87,6 +91,9 @@ Não possuo / Possuo alguns  / Possuo vários
 5. Sim. A relação entre docente e instituição escolar é fundamental para o desenvolvimento de um ambiente educacional mais organizado, acolhedor e eficiente. Quando existe diálogo entre professores, coordenação, setores pedagógicos e gestão escolar, os estudantes tendem a receber um acompanhamento mais efetivo. Considero importantes ações como acompanhamento pedagógico contínuo, projetos interdisciplinares, fortalecimento da escuta dos estudantes, reuniões pedagógicas integradas e desenvolvimento de estratégias coletivas para permanência e êxito escolar. A instituição precisa compreender que o rendimento dos alunos não depende apenas do professor individualmente, mas de uma construção coletiva.
 
 6. Sim. A relação entre os alunos pode influenciar tanto positiva quanto negativamente o desempenho e o interesse escolar. Ambientes marcados por respeito, cooperação e pertencimento tendem a favorecer a aprendizagem, enquanto conflitos, exclusão, bullying e competitividade excessiva podem gerar desmotivação e afastamento escolar. Procuro observar constantemente a dinâmica das turmas, incentivando atividades colaborativas, trabalhos em grupo, diálogo e respeito às diferenças. Também considero importante desenvolver práticas que fortaleçam a convivência, a empatia e o sentimento de participação coletiva dentro do ambiente escolar.
+
+
+
 
 **Requisitos funcionais**
 
@@ -109,6 +116,9 @@ Não possuo / Possuo alguns  / Possuo vários
 **RF9** - Possuir criação de plano de recuperação de alunos afetados por desinteresse escolar.
 
 **RF10** - Possuir registro de justificativa opcional para o aluno que decidiu evadir.
+
+
+
 
 **Requisitos não funcionais**
 
