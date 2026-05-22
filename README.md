@@ -4,7 +4,7 @@ PROCESSO DE SOFTWARE E ENGENHARIA DE REQUISITOS
 
 Nicolas Saldanha Lersch e Alyssa Goulart Santos
 
-  
+ -- 
 
 **Roteiro para a entrevista com os docentes:**
 
@@ -21,7 +21,7 @@ Nicolas Saldanha Lersch e Alyssa Goulart Santos
 **6. Você acredita que a relação entre seus alunos pode impactar positivamente ou negativamente seu desempenho e interesse escolar? De que formas você nota ou melhora a relação entre seus alunos?**
 
 
-
+---
 
 **Roteiro para o questionário com os discentes:**
 
@@ -76,7 +76,7 @@ Não possuo / Possuo alguns  / Possuo vários
 Não possuo / Possuo alguns  / Possuo vários
 
 
-
+---
 
 **Respostas do professor(a) entrevistado:**
 
@@ -93,7 +93,7 @@ Não possuo / Possuo alguns  / Possuo vários
 6. Sim. A relação entre os alunos pode influenciar tanto positiva quanto negativamente o desempenho e o interesse escolar. Ambientes marcados por respeito, cooperação e pertencimento tendem a favorecer a aprendizagem, enquanto conflitos, exclusão, bullying e competitividade excessiva podem gerar desmotivação e afastamento escolar. Procuro observar constantemente a dinâmica das turmas, incentivando atividades colaborativas, trabalhos em grupo, diálogo e respeito às diferenças. Também considero importante desenvolver práticas que fortaleçam a convivência, a empatia e o sentimento de participação coletiva dentro do ambiente escolar.
 
 
-
+---
 
 **Requisitos funcionais**
 
@@ -117,7 +117,7 @@ Não possuo / Possuo alguns  / Possuo vários
 
 **RF10** - Possuir registro de justificativa opcional para o aluno que decidiu evadir.
 
-
+---
 
 
 **Requisitos não funcionais**
