@@ -8,7 +8,7 @@ Nicolas Saldanha Lersch e Alyssa Goulart Santos
 
 ## **Roteiro para a entrevista com os docentes:**
 
-**1.** **Qual sua possível percepção de desinteresse de seus alunos em seu referente curso e ambiente de estudo, você sente que isso pode atrapalhar diretamente o desempenho escolar e frequência deles?**
+**1. **Qual sua possível percepção de desinteresse de seus alunos em seu referente curso e ambiente de estudo, você sente que isso pode atrapalhar diretamente o desempenho escolar e frequência deles?**
 
 **2. Quais são os possíveis problemas notados dos estudantes além do ambiente escolar que possam impactar, diretamente ou indiretamente, sua frequência escolar e desempenho acadêmico em geral?**
 
@@ -25,25 +25,25 @@ Nicolas Saldanha Lersch e Alyssa Goulart Santos
 
 ## **Roteiro para o questionário com os discentes:**
 
-1. **Você se sente desconfortável a continuar a sua carreira acadêmica?**
+**1. Você se sente desconfortável a continuar a sua carreira acadêmica?**
 
 Não / Provavelmente não / neutro / Provavelmente sim / Sim
 
-2. **Você acha que o que causa seu desconforto está diretamente ligado ao ambiente escolar em que você está?**
+**2. Você acha que o que causa seu desconforto está diretamente ligado ao ambiente escolar em que você está?**
 
 Não / Provavelmente não / neutro / Provavelmente sim / Sim
 
-3. **Você sente falta de ações em relação a qualidade de vida aos alunos  provenientes da instituição que são de grande auxílio em seu desempenho e interesse escolar?**
+**3. Você sente falta de ações em relação a qualidade de vida aos alunos  provenientes da instituição que são de grande auxílio em seu desempenho e interesse escolar?**
 
 Não / Provavelmente não / neutro / Provavelmente sim / Sim
 
-4. **Você possui problemas que derivam de sua vida fora da escola que possam impactar diretamente ou indiretamente seu desempenho e interesse escolar?**
+**4. Você possui problemas que derivam de sua vida fora da escola que possam impactar diretamente ou indiretamente seu desempenho e interesse escolar?**
 
 Não / Provavelmente não / neutro / Provavelmente sim / Sim
 
-5. **Cite alguns possíveis problemas em que possam afetar seu desinteresse em prosseguir em sua carreira acadêmica em sua instituição:**
+**5. Cite alguns possíveis problemas em que possam afetar seu desinteresse em prosseguir em sua carreira acadêmica em sua instituição:**
 
-**A)** **Problemas relacionados a professores (docentes)**
+**A) Problemas relacionados a professores (docentes)**
 
 Não possuo / Possuo alguns  / Possuo vários
 
@@ -59,11 +59,11 @@ Não possuo / Possuo alguns  / Possuo vários
 
 Não possuo / Possuo alguns  / Possuo vários
 
-**E)** **Problemas relacionados à estrutura física de ambientes escolares ( salas de aula, luz e água, corredores, banheiros, ambientes para descanso e lazer, ETC)**
+**E) Problemas relacionados à estrutura física de ambientes escolares ( salas de aula, luz e água, corredores, banheiros, ambientes para descanso e lazer, ETC)**
 
 Não possuo / Possuo alguns  / Possuo vários
 
-**F)** **Problemas relacionados à estrutura digital do campus (Sigga, Pergamum, Orbital, Portal  acadêmica iffarroupilha, ETC)**
+**F) Problemas relacionados à estrutura digital do campus (Sigga, Pergamum, Orbital, Portal  acadêmica iffarroupilha, ETC)**
 
 Não possuo / Possuo alguns  / Possuo vários
 
