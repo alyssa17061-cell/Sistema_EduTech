@@ -6,7 +6,7 @@ Nicolas Saldanha Lersch e Alyssa Goulart Santos
 
  --- 
 
-**Roteiro para a entrevista com os docentes:**
+### **Roteiro para a entrevista com os docentes:**
 
 **1.** **Qual sua possível percepção de desinteresse de seus alunos em seu referente curso e ambiente de estudo, você sente que isso pode atrapalhar diretamente o desempenho escolar e frequência deles?**
 
@@ -23,7 +23,7 @@ Nicolas Saldanha Lersch e Alyssa Goulart Santos
 
 ---
 
-**Roteiro para o questionário com os discentes:**
+### **Roteiro para o questionário com os discentes:**
 
 1. **Você se sente desconfortável a continuar a sua carreira acadêmica?**
 
@@ -78,7 +78,7 @@ Não possuo / Possuo alguns  / Possuo vários
 
 ---
 
-**Respostas do professor(a) entrevistado:**
+### **Respostas do professor(a) entrevistado:**
 
 1. Em minha percepção, o desinteresse dos estudantes pode estar relacionado a diferentes fatores, tanto internos quanto externos ao ambiente escolar. No contexto da Educação Profissional e Tecnológica, especialmente no Ensino Médio Integrado, percebo que muitos alunos apresentam dificuldades em compreender o sentido da formação integrada e a relação entre os conteúdos escolares e sua realidade concreta. Quando o estudante não consegue perceber significado no que aprende, isso tende a impactar diretamente sua motivação, frequência e desempenho acadêmico. Além disso, ambientes escolares excessivamente fragmentados, metodologias pouco participativas e currículos desarticulados podem ampliar esse distanciamento entre aluno e escola.
 
@@ -95,7 +95,7 @@ Não possuo / Possuo alguns  / Possuo vários
 
 ---
 
-**Requisitos funcionais**
+### **Requisitos funcionais**
 
 **RF1** - Possuir emissão alerta quando um aluno está chegando perto de 75% de frequência e emitir alerta quando é alcançado 75% de frequência exata.
 
@@ -120,7 +120,7 @@ Não possuo / Possuo alguns  / Possuo vários
 ---
 
 
-**Requisitos não funcionais**
+### **Requisitos não funcionais**
 
 **RNF1** - Possuir integração com sites institucionais de acesso aberto
 
