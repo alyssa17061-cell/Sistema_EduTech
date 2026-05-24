@@ -6,7 +6,7 @@ Nicolas Saldanha Lersch e Alyssa Goulart Santos
 
  --- 
 
-##**Sumário**
+#**Sumário**
 1. [Roteiro para a entrevista com os docentes](roteiro-para-a-entrevista-com-os-docentes)
 2. [Roteiro para o questionário com os discentes](#roteiro-para-o-questionário-os-discentes)
 3. [Respostas do professor(a) entrevistado](#respostas-do-professor(a)-entrevistado)
