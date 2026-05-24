@@ -6,12 +6,12 @@ Nicolas Saldanha Lersch e Alyssa Goulart Santos
 
  --- 
 
-##Sumário
-[Roteiro para a entrevista com os docentes](roteiro-para-a-entrevista-com-os-docentes)
-[Roteiro para o questionário com os discentes](#roteiro-para-o-questionário-os-discentes)
-[Respostas do professor(a) entrevistado](#respostas-do-professor(a)-entrevistado)
-[Requisitos funcionais](#requisitos-funcionais)
-[Requisitos não funcionais](#requisitos-não-funcionais)
+##**Sumário**
+1. [Roteiro para a entrevista com os docentes](roteiro-para-a-entrevista-com-os-docentes)
+2. [Roteiro para o questionário com os discentes](#roteiro-para-o-questionário-os-discentes)
+3. [Respostas do professor(a) entrevistado](#respostas-do-professor(a)-entrevistado)
+4. [Requisitos funcionais](#requisitos-funcionais)
+5. [Requisitos não funcionais](#requisitos-não-funcionais)
 
 ---
 
