@@ -1,4 +1,4 @@
-# Atividade Prática: Elicitação de Requisitos para o Sistema "EduTech-Connect"
+# Atividade Prática: Elicitação de Requisitos para o Sistema EduTech-Connect
 
 PROCESSO DE SOFTWARE E ENGENHARIA DE REQUISITOS
 
@@ -8,13 +8,13 @@ Nicolas Saldanha Lersch e Alyssa Goulart Santos
 
 ## **Roteiro para a entrevista com os docentes:**
 
-**1. **Qual sua possível percepção de desinteresse de seus alunos em seu referente curso e ambiente de estudo, você sente que isso pode atrapalhar diretamente o desempenho escolar e frequência deles?**
+**1. Qual sua possível percepção de desinteresse de seus alunos em seu referente curso e ambiente de estudo, você sente que isso pode atrapalhar diretamente o desempenho escolar e frequência deles?**
 
 **2. Quais são os possíveis problemas notados dos estudantes além do ambiente escolar que possam impactar, diretamente ou indiretamente, sua frequência escolar e desempenho acadêmico em geral?**
 
 **3. Você considera que o seu meio de ensino e conduta pode afetar diretamente o interesse geral pela disciplina respectiva aos seus estudantes? por que?**
 
-**4.Você considera que executar adaptações de ensino de acordo com ambiente escolar de acordo com as necessidades da turma em uma disciplina específica ou no geral,  pode impactar diretamente o interesse dos alunos e seu desempenho escolar?**
+**4. Você considera que executar adaptações de ensino de acordo com ambiente escolar de acordo com as necessidades da turma em uma disciplina específica ou no geral,  pode impactar diretamente o interesse dos alunos e seu desempenho escolar?**
 
 **5. Você considera importante a correlação entre o docente e a instituição escolar para o bom rendimento escolar e interesse dos alunos? O que você consideraria uma ação entre docente e instituição que possa impactar positivamente o desempenho e interesse escolar dos alunos?**
 
@@ -97,39 +97,39 @@ Não possuo / Possuo alguns  / Possuo vários
 
 ## **Requisitos funcionais**
 
-**RF1** - Possuir emissão alerta quando um aluno está chegando perto de 75% de frequência e emitir alerta quando é alcançado 75% de frequência exata.
+**RF1** - Possuir emissão alerta quando um aluno está chegando perto de 75% de frequência e emitir alerta quando é alcançado 75% de frequência exata
 
-**RF2** - Possuir chat de conversa com setor pedagógico, setor de saúde e setor de atendimento especial.
+**RF2** - Possuir chat de conversa com setor pedagógico, setor de saúde e setor de atendimento especial
 
-**RF3** - Possuir questionário de atendimento especializado em medir grau de interesse acadêmico.
+**RF3** - Possuir questionário de atendimento especializado em medir grau de interesse acadêmico
 
-**RF4** - Possuir agendamento de atendimento especializado presencial ou online.
+**RF4** - Possuir agendamento de atendimento especializado presencial ou online
 
-**RF5** - Possuir cálculo de possível desinteresse do aluno na carreira acadêmica a partir de análise de comportamento.
+**RF5** - Possuir cálculo de possível desinteresse do aluno na carreira acadêmica a partir de análise de comportamento
 
-**RF6** - Possuir registro de presença dos alunos que o docente possa executar.
+**RF6** - Possuir registro de presença dos alunos que o docente possa executar
 
-**RF7** - Possuir registro de monitorias e aulas de reforço.
+**RF7** - Possuir registro de monitorias e aulas de reforço
 
-**RF8** - Possuir formulários voltados aos usuários em geral para avaliar o clima escolar mensalmente.
+**RF8** - Possuir formulários voltados aos usuários em geral para avaliar o clima escolar mensalmente
 
-**RF9** - Possuir criação de plano de recuperação de alunos afetados por desinteresse escolar.
+**RF9** - Possuir criação de plano de recuperação de alunos afetados por desinteresse escolar
 
-**RF10** - Possuir registro de justificativa opcional para o aluno que decidiu evadir.
+**RF10** - Possuir registro de justificativa opcional para o aluno que decidiu evadir
 
 ---
 
 
 ## **Requisitos não funcionais**
 
-**RNF1** - Possuir integração com sites institucionais de acesso aberto
+**RNF1 - Possuir integração com sites institucionais de acesso aberto**
 
 Possibilita acesso facilitado a partir de outros sites institucionais, facilitando assim o acesso dos diversos alunos que frequentam estes sites, consequentemente aumentando o conhecimento da existência da ferramenta.
 
-**RNF2** - Permitir acesso de docentes e técnicos da instituição para adaptação de setores.
+**RNF2 - Permitir acesso de docentes e técnicos da instituição para adaptação de setores**
 
 Permitir adaptações de acordo com a existência de setores para mais ou para menos dependendo do local da instituição, podendo ser manipulado por professores e técnicos responsáveis.
 
-**RNF3** - Permitir que apenas os profissionais do setor da saúde e pedagógico tenham acesso aos dados dos questionários que foram feitos pelos alunos
+**RNF3 - Permitir que apenas os profissionais do setor da saúde e pedagógico tenham acesso aos dados dos questionários que foram feitos pelos alunos**
 
 Aumentar a segurança de dados dos alunos para tornar mais confortável a confissão de possíveis problemas relacionados ao curso ou a problemas da vida pessoas do aluno.
