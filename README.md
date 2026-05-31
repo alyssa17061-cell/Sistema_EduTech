@@ -150,6 +150,9 @@ Aumentar a segurança de dados dos alunos para tornar mais confortável a confis
 ![Backlog](Backlog.jpg)
 
 ---
+## User stories
+
+---
 ## **Cenário BDD**
 ``US01
    Cenário 01: Caminho feliz
