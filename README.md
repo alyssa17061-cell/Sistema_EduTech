@@ -148,4 +148,19 @@ Aumentar a segurança de dados dos alunos para tornar mais confortável a confis
 
 ## **Backlog**
 ![Backlog](Backlog.jpg)
-[Link do Baklog](https://github.com/users/alyssa17061-cell/projects/1)
+
+---
+## **Cenário BDD**
+
+---
+
+## **Autoavaliação INVEST**
+
+| Letra | Critério | US1 | US2 | US3 | US4 | US5 |
+| --- | --- | --- | --- | --- | --- | --- |
+| I | Independent |  |
+| N | Negotiable |  |
+| V | Valuable |  |
+| E | Estimable |  |
+| S | Small |  |
+| T | Testable | |  
