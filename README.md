@@ -153,8 +153,8 @@ Aumentar a segurança de dados dos alunos para tornar mais confortável a confis
 ![Backlog](Backlog.jpg)
 
 ---
-## **User stories*
-| ID | História (User Story) | Conversation  | Critérios de Aceite |
+## **User stories**
+| ID | User Story | Conversation  | Critérios de Aceite |
 | --- | --- | --- | --- | 
 | **US-01** |  |  
 | **US-02** |  |  
