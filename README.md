@@ -12,6 +12,9 @@ Nicolas Saldanha Lersch e Alyssa Goulart Santos
 3. [Respostas do professor(a) entrevistado](#respostas-do-professor(a)-entrevistado)
 4. [Requisitos funcionais](#requisitos-funcionais)
 5. [Requisitos não funcionais](#requisitos-não-funcionais)
+6. [Backlog](#backlog)
+7. [Cenários BDD](#cenarios-bdd)
+8. [Autoavaliação INVEST](#autoavaliacao-invest)
 
 ---
 
@@ -150,8 +153,14 @@ Aumentar a segurança de dados dos alunos para tornar mais confortável a confis
 ![Backlog](Backlog.jpg)
 
 ---
-## User stories
-
+## **User stories*
+| ID | História (User Story) | Conversation  | Critérios de Aceite |
+| --- | --- | --- | 
+| **US-01** |  |  
+| **US-02** |  |  
+| **US-03** |  |  
+| **US-04** |  |  
+| **US-05** |  |  
 ---
 ## **Cenário BDD**
 ``US01
