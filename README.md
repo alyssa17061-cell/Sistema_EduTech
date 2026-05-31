@@ -151,56 +151,50 @@ Aumentar a segurança de dados dos alunos para tornar mais confortável a confis
 
 ---
 ## **Cenário BDD**
-``Gherkin
-US01
-  Cenário 01: Caminho feliz
-  Dado que
-  E
-  Quando
-  Então
-  E``
+``US01
+   Cenário 01: Caminho feliz
+    Dado que
+    E
+    Quando
+    Então
+    E``
  
-  ``Gherkin
-Cenário 2: Fluxo Alternativo/Exceção
-   Dado que
-  E
-  Quando
-  Então
-  E``
+  ``Cenário 2: Fluxo Alternativo/Exceção
+    Dado que
+    E
+    Quando
+    Então
+    E``
  
-  ``Gherkin
-US02
-  Cenário 01: Caminho feliz
-  Dado que
-  E
-  Quando
-  Então
-  E``
+ ``US02
+    Cenário 01: Caminho feliz
+     Dado que
+     E
+     Quando
+     Então
+     E``
  
-  ``Gherkin
-Cenário 2: Fluxo Alternativo/Exceção
-   Dado que
-  E
-  Quando
-  Então
-  E``
+  ``Cenário 2: Fluxo Alternativo/Exceção
+     Dado que
+     E
+     Quando
+     Então
+     E``
 
- ``Gherkin
-US03
-  Cenário 01: Caminho feliz
-  Dado que
-  E
-  Quando
-  Então
-  E``
+``US03
+   Cenário 01: Caminho feliz
+    Dado que
+    E
+    Quando
+    Então
+    E``
  
-  ``Gherkin
-Cenário 2: Fluxo Alternativo/Exceção
-   Dado que
-  E
-  Quando
-  Então
-  E``
+  ``Cenário 2: Fluxo Alternativo/Exceção
+     Dado que
+     E
+     Quando
+     Então
+     E``
   
 ---
 
