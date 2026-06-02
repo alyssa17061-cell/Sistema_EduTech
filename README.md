@@ -154,7 +154,7 @@ Aumentar a segurança de dados dos alunos para tornar mais confortável a confis
 
 ---
 ## **User stories**
-| ID | User Story | Conversation  | Critérios de Aceite |
+| ID | Card | Conversation  | Critérios de Aceite |
 | --- | --- | --- | --- | 
 | **US-01** |  |  
 | **US-02** |  |  
