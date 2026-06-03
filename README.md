@@ -15,7 +15,7 @@ Nicolas Saldanha Lersch e Alyssa Goulart Santos
 6. [Backlog](#backlog)
 7. [User Stories](#user-stories)
 8. [Cenários BDD](#cenários-bdd)
-9. [Autoavaliação INVEST](#autoavaliacão-invest)
+9. [Autoavaliação INVEST](#autoavaliação-invest)
 
 ---
 
@@ -247,7 +247,7 @@ Aumentar a segurança de dados dos alunos para tornar mais confortável a confis
 
 ---
 
-# **Cenário BDD**
+# **Cenários BDD**
 
 **US01**
 
