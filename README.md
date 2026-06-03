@@ -8,13 +8,14 @@ Nicolas Saldanha Lersch e Alyssa Goulart Santos
 
 # **Sumário**
 1. [Roteiro para a entrevista com os docentes](roteiro-para-a-entrevista-com-os-docentes)
-2. [Roteiro para o questionário com os discentes](#roteiro-para-o-questionário-os-discentes)
-3. [Respostas do professor(a) entrevistado](#respostas-do-professor(a)-entrevistado)
+2. [Roteiro para o questionário com os discentes](#roteiro-para-o-questionário-com-os-discentes)
+3. [Respostas do professor(a) entrevistado](#respostas-do-professor-entrevistado)
 4. [Requisitos funcionais](#requisitos-funcionais)
 5. [Requisitos não funcionais](#requisitos-não-funcionais)
 6. [Backlog](#backlog)
-7. [Cenários BDD](#cenarios-bdd)
-8. [Autoavaliação INVEST](#autoavaliacao-invest)
+7. [User Stories](#user-stories)
+8. [Cenários BDD](#cenários-bdd)
+9. [Autoavaliação INVEST](#autoavaliacao-invest)
 
 ---
 
@@ -91,7 +92,7 @@ Não possuo / Possuo alguns  / Possuo vários
 
 ---
 
-## **Respostas do professor(a) entrevistado:**
+## **Respostas do professor entrevistado:**
 
 1. Em minha percepção, o desinteresse dos estudantes pode estar relacionado a diferentes fatores, tanto internos quanto externos ao ambiente escolar. No contexto da Educação Profissional e Tecnológica, especialmente no Ensino Médio Integrado, percebo que muitos alunos apresentam dificuldades em compreender o sentido da formação integrada e a relação entre os conteúdos escolares e sua realidade concreta. Quando o estudante não consegue perceber significado no que aprende, isso tende a impactar diretamente sua motivação, frequência e desempenho acadêmico. Além disso, ambientes escolares excessivamente fragmentados, metodologias pouco participativas e currículos desarticulados podem ampliar esse distanciamento entre aluno e escola.
 
@@ -153,18 +154,104 @@ Aumentar a segurança de dados dos alunos para tornar mais confortável a confis
 ![Backlog](Backlog.jpg)
 
 ---
+
 ## **User stories**
-| ID | Card | Conversation  | Critérios de Aceite |
-| --- | --- | --- | --- | 
-| **US-01** |  |  
-| **US-02** |  |  
-| **US-03** |  |  
-| **US-04** |  |  
-| **US-05** |  |  
+**User 01:** 
+**Card:**
+**Como** discente,
+**eu quero** receber um alerta do sistema quando a minha frequência estiver próxima do limite mínimo de 75%,
+**para** que eu possa me planejar e evitar a reprovação por faltas.
+
+**Conversation:**
+  -
+  -
+  -
+
+**Critérios de Aceite:**
+
+[]
+[]
+[]
+
+**User 02:** 
+**CARD:**
+**Como**
+**eu quero**
+**para**
+
+
+**Conversation:**
+  -
+  -
+  -
+
+**Critérios de Aceite:**
+
+[]
+[]
+[]
+
+**User 03:** 
+**CARD:**
+**Como**
+**eu quero**
+**para**
+
+
+**Conversation:**
+  -
+  -
+  -
+
+**Critérios de Aceite:**
+
+[]
+[]
+[]
+
+**User 04:** 
+**CARD:**
+**Como**
+**eu quero**
+**para**
+
+**Conversation:**
+  -
+  -
+  -
+
+**Critérios de Aceite:**
+
+[]
+[]
+[]
+
+**User 05:** 
+**CARD:**
+**Como**
+**eu quero**
+**para**
+
+
+**Conversation:**
+  -
+  -
+  -
+
+**Critérios de Aceite:**
+
+[]
+[]
+[]
+
 ---
+
 ## **Cenário BDD**
+
 ``US01
+
    Cenário 01: Caminho feliz
+
     Dado que
     E
     Quando
