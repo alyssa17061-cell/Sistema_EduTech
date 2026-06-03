@@ -167,11 +167,12 @@ Aumentar a segurança de dados dos alunos para tornar mais confortável a confis
   -
   -
 
+
 **Critérios de Aceite:**
 
-[]
-[]
-[]
+[] O sistema deve emitir um alerta simples na página inicial do discente quando a frequência registrada estiver próxima do limite de 75%.
+[] O sistema deve emitir um alerta destacado na página inicial do discente caso o limite de 75% de frequência seja alcançado ou ultrapassado 
+[] O sistema deve atualizar o status do alerta automaticamente a cada novo registro de presença ou ausência inserido no registro de classe.
 
 **User 02:** 
 **CARD:**
@@ -250,17 +251,16 @@ Aumentar a segurança de dados dos alunos para tornar mais confortável a confis
 
 **US01**
 
-   ``Cenário 01: Caminho feliz
-
-    Dado que
+   **Cenário 01: Caminho feliz**
+ ``Dado que
     E
     Quando
     Então
-    E
+    E``
    
  
-   ``Cenário 2: Fluxo Alternativo/Exceção
-    Dado que
+   **Cenário 2: Fluxo Alternativo/Exceção**
+  ``Dado que
     E
     Quando
     Então
@@ -268,30 +268,30 @@ Aumentar a segurança de dados dos alunos para tornar mais confortável a confis
     
  
  **US02**
-    ``Cenário 01: Caminho feliz
-     Dado que
+    **Cenário 01: Caminho feliz**
+   ``Dado que
      E
      Quando
      Então
      E``
  
-  ``Cenário 2: Fluxo Alternativo/Exceção
-     Dado que
+  **Cenário 2: Fluxo Alternativo/Exceção**
+   ``Dado que
      E
      Quando
      Então
      E``
 
 **US03**
-   ``Cenário 01: Caminho feliz
-    Dado que
+  **Cenário 01: Caminho feliz**
+  ``Dado que
     E
     Quando
     Então
     E``
  
-  ``Cenário 2: Fluxo Alternativo/Exceção
-     Dado que
+ **Cenário 2: Fluxo Alternativo/Exceção**
+   ``Dado que
      E
      Quando
      Então
