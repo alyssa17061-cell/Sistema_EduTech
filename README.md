@@ -248,25 +248,27 @@ Aumentar a segurança de dados dos alunos para tornar mais confortável a confis
 
 ## **Cenário BDD**
 
-``US01
+**US01**
 
-   Cenário 01: Caminho feliz
+   ``Cenário 01: Caminho feliz
 
     Dado que
     E
     Quando
     Então
-    E``
+    E
+   
  
-  ``Cenário 2: Fluxo Alternativo/Exceção
+   ``Cenário 2: Fluxo Alternativo/Exceção
     Dado que
     E
     Quando
     Então
     E``
+    
  
- ``US02
-    Cenário 01: Caminho feliz
+ **US02**
+    ``Cenário 01: Caminho feliz
      Dado que
      E
      Quando
@@ -280,8 +282,8 @@ Aumentar a segurança de dados dos alunos para tornar mais confortável a confis
      Então
      E``
 
-``US03
-   Cenário 01: Caminho feliz
+**US03**
+   ``Cenário 01: Caminho feliz
     Dado que
     E
     Quando
