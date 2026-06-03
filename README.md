@@ -15,7 +15,7 @@ Nicolas Saldanha Lersch e Alyssa Goulart Santos
 6. [Backlog](#backlog)
 7. [User Stories](#user-stories)
 8. [Cenários BDD](#cenários-bdd)
-9. [Autoavaliação INVEST](#autoavaliacao-invest)
+9. [Autoavaliação INVEST](#autoavaliacão-invest)
 
 ---
 
