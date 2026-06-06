@@ -157,6 +157,7 @@ Aumentar a segurança de dados dos alunos para tornar mais confortável a confis
 
 # **User stories**
 **User Story #01: Alerta de Frequência do Discente (Abordando RF1)**
+
 **CARD:** 
 Como Discente, 
 eu quero visualizar alertas sobre a proximidade do limite de faltas na minha página inicial,
@@ -167,14 +168,13 @@ eu quero visualizar alertas sobre a proximidade do limite de faltas na minha pá
  - Caso o limite de 75% de frequência seja atingido ou ultrapassado, o alerta deve se tornar destacado e visualmente chamativo.
 
 **CONFIRMATION (Critérios de Aceite):**
-[ ] O sistema deve exibir um alerta visual simples na página inicial do discente quando a sua frequência registrada estiver próxima do limite crítico de 75%.
-[ ] O sistema deve exibir um alerta destacado e de alta prioridade (ex: na cor vermelha) na página inicial do discente caso o limite mínimo de 75% de frequência seja alcançado ou ultrapassado.
-[ ] O sistema deve atualizar o status e o percentual do alerta automaticamente a cada novo registro de presença ou ausência inserido no diário de classe.
-
-
+ - [ ] O sistema deve exibir um alerta visual simples na página inicial do discente quando a sua frequência registrada estiver próxima do limite crítico de 75%.
+ - [ ] O sistema deve exibir um alerta destacado e de alta prioridade (ex: na cor vermelha) na página inicial do discente caso o limite mínimo de 75% de frequência seja alcançado ou ultrapassado.
+ - [ ] O sistema deve atualizar o status e o percentual do alerta automaticamente a cada novo registro de presença ou ausência inserido no diário de classe.
 
 
 **User Story #02: Agendamento de Atendimento Especializado (Abordando RF2)**
+
 **CARD:**
 Como Discente, 
 eu quero agendar um atendimento especializado escolhendo entre o formato presencial ou online, 
@@ -185,12 +185,13 @@ O sistema deve permitir a seleção explícita entre o formato de atendimento "P
 Para agendamentos online, o sistema deve gerar automaticamente o link da videochamada; para agendamentos presenciais, deve exibir o número da sala física.
 
 **CONFIRMATION (Critérios de Aceite):**
-[ ] O sistema deve exibir um calendário dinâmico contendo os dias e horários disponíveis de cada profissional especializado para a escolha do discente.
-[ ] O sistema deve exibir o local e o número da sala caso o discente selecione o atendimento presencial, ou gerar e disponibilizar o link da videochamada caso selecione o atendimento online.
-[ ] O sistema deve permitir que o aluno visualize e cancele o agendamento diretamente pelo painel, respeitando o limite de antecedência parametrizado pela instituição.
+- [ ] O sistema deve exibir um calendário dinâmico contendo os dias e horários disponíveis de cada profissional especializado para a escolha do discente.
+- [ ] O sistema deve exibir o local e o número da sala caso o discente selecione o atendimento presencial, ou gerar e disponibilizar o link da videochamada caso selecione o atendimento online.
+- [ ] O sistema deve permitir que o aluno visualize e cancele o agendamento diretamente pelo painel, respeitando o limite de antecedência parametrizado pela instituição.
 
 
 **User Story #03: Registro de Presença Automatizado e Manual (Abordando RF3)**
+
 **CARD:**
 Como Docente, 
 eu quero registrar a presença dos alunos de forma manual ou por meio de integração automática, para que o diário de classe esteja sempre atualizado com o menor esforço operacional possível.
@@ -200,13 +201,14 @@ eu quero registrar a presença dos alunos de forma manual ou por meio de integra
  - O sistema deve possuir uma rotina automatizada para importar e migrar os dados de frequência a partir do sistema de ensino externo integrado.
 
 **CONFIRMATION (Critérios de Aceite):**
-[ ] O sistema deve exibir a listagem completa dos discentes matriculados na turma para que o docente possa realizar a chamada e o registro de presença de forma manual.
-[ ] O sistema deve realizar a sincronização automática com o sistema de ensino externo parceiro para importar e consolidar os dados de presença sem a necessidade de intervenção humana.
-[ ] O sistema deve exibir uma notificação de erro ou log de falha para o docente caso ocorra qualquer problema de comunicação ou sincronização entre as duas plataformas.
+- [ ] O sistema deve exibir a listagem completa dos discentes matriculados na turma para que o docente possa realizar a chamada e o registro de presença de forma manual.
+- [ ] O sistema deve realizar a sincronização automática com o sistema de ensino externo parceiro para importar e consolidar os dados de presença sem a necessidade de intervenção humana.
+- [ ] O sistema deve exibir uma notificação de erro ou log de falha para o docente caso ocorra qualquer problema de comunicação ou sincronização entre as duas plataformas.
 
 
 
 **User Story #04: Chat de Atendimento com Agendamento Integrado (Abordando RF4)**
+
 **CARD:** 
 Como Atendente de setores especializados, eu quero utilizar um chat de atendimento em tempo real focado em interações e marcações de encontros com os discentes, para que as dúvidas sejam sanadas e os agendamentos sejam feitos de forma ágil e centralizada.
 
@@ -215,11 +217,12 @@ Como Atendente de setores especializados, eu quero utilizar um chat de atendimen
  - O atendente deve ser capaz de selecionar, confirmar e fechar o dia e o horário do encontro sem precisar sair ou navegar para fora do chat do discente.
 
 **CONFIRMATION (Critérios de Aceite):**
-[ ] O sistema deve disponibilizar uma interface de chat em tempo real que permita a comunicação direta e a troca de mensagens entre o atendente e o discente.
-[ ] O sistema deve permitir que o atendente abra a agenda da instituição e realize a marcação de encontros (presenciais ou online) diretamente pela interface ativa do chat.
-[ ] O sistema deve disparar notificações de confirmação com os detalhes do compromisso para as telas/e-mails do atendente e do discente logo após a finalização do agendamento.
+- [ ] O sistema deve disponibilizar uma interface de chat em tempo real que permita a comunicação direta e a troca de mensagens entre o atendente e o discente.
+- [ ] O sistema deve permitir que o atendente abra a agenda da instituição e realize a marcação de encontros (presenciais ou online) diretamente pela interface ativa do chat.
+- [ ] O sistema deve disparar notificações de confirmação com os detalhes do compromisso para as telas/e-mails do atendente e do discente logo após a finalização do agendamento.
 
 **User Story #05: Cronograma Unificado de Monitorias e Atendimentos (Abordando RF5)**
+
 **CARD:** 
 Como Docente, 
 eu quero cadastrar meus horários de monitoria e de atendimento ao aluno em uma única ação, 
@@ -227,13 +230,12 @@ para que eu organize minha rotina acadêmica de forma eficiente e clara para os 
 
 **CONVERSATION (Notas de Regra de Negócio):**
  - Os horários criados de forma conjunta devem ser exibidos centralizados em um único cronograma geral.
-
  - O cronograma deve aplicar uma diferenciação visual clara e nítida entre o que é "Monitoria" e o que é "Atendimento" para evitar confusão visual por parte dos alunos.
 
 **CONFIRMATION (Critérios de Aceite):**
-[ ] O sistema deve disponibilizar um formulário unificado que possibilite o cadastro simultâneo de horários de monitoria e de atendimento ao aluno na mesma tela.
-[ ] O sistema deve exibir um cronograma integrado para os alunos, utilizando cores ou tags visualmente distintas para diferenciar os horários de monitoria dos horários de atendimento.
-[ ] O sistema deve permitir que o docente edite, exclua ou replique em lote esse conjunto de horários para semanas subsequentes do calendário acadêmico.
+- [ ] O sistema deve disponibilizar um formulário unificado que possibilite o cadastro simultâneo de horários de monitoria e de atendimento ao aluno na mesma tela.
+- [ ] O sistema deve exibir um cronograma integrado para os alunos, utilizando cores ou tags visualmente distintas para diferenciar os horários de monitoria dos horários de atendimento.
+- [ ] O sistema deve permitir que o docente edite, exclua ou replique em lote esse conjunto de horários para semanas subsequentes do calendário acadêmico.
 
 ---
 
