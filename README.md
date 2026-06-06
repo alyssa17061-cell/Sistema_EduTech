@@ -241,52 +241,55 @@ para que eu organize minha rotina acadêmica de forma eficiente e clara para os 
 
 **US01**
 
-   **Cenário 01: Caminho feliz**
-  ``Dado que um aluno possui frequência próxima do limite mínimo permitido
+ ```gherkin
+    Cenário 01: Caminho feliz
+    Dado que um aluno possui frequência próxima do limite mínimo permitido
     E que o sistema monitora sua frequência regularmente
     Quando sua frequência atingir o limite configurado para alerta preventivo
     Então o sistema deve gerar uma notificação para a equipe pedagógica
-    E registrar o alerta no histórico do aluno.``
-   
+    E registrar o alerta no histórico do aluno.
  
-   **Cenário 2: Fluxo Alternativo/Exceção**
-  ``Dado que um aluno alcançou exatamente 75% de frequência
+    Cenário 2: Fluxo Alternativo/Exceção
+    Dado que um aluno alcançou exatamente 75% de frequência
     Quando os dados de frequência forem atualizados
     Então o sistema deve gerar um alerta crítico
-    E notificar os responsáveis pelo acompanhamento acadêmico.``
+    E notificar os responsáveis pelo acompanhamento acadêmico.
+```
     
  
  **US02**
- 
-    **Cenário 01: Caminho feliz**
-   ``Dado que o aluno está autenticado no sistema
+
+  ```gherkin
+     Cenário 01: Caminho feliz
+     Dado que o aluno está autenticado no sistema
      E que existe um horário disponível para atendimento
      Quando o aluno selecionar data, horário e modalidade de atendimento
      Então o sistema deve registrar o agendamento
-     E enviar uma confirmação ao aluno.``
+     E enviar uma confirmação ao aluno.
  
-  **Cenário 2: Fluxo Alternativo/Exceção**
-    ``Dado que o aluno deseja agendar um atendimento
-      Quando selecionar um horário já ocupado
-      Então o sistema deve informar a indisponibilidade
-      E apresentar horários alternativos.``
-
+     Cenário 2: Fluxo Alternativo/Exceção
+     Dado que o aluno deseja agendar um atendimento
+     Quando selecionar um horário já ocupado
+     Então o sistema deve informar a indisponibilidade
+     E apresentar horários alternativos.
+  ```
 
 **US04**
 
-  **Cenário 01: Caminho feliz**
-  ``Dado que o aluno está autenticado no sistema
+ ```gherkin
+    Cenário 01: Caminho feliz
+    Dado que o aluno está autenticado no sistema
     E que existe um horário disponível para atendimento
     Quando o aluno selecionar data, horário e modalidade de atendimento
     Então o sistema deve registrar o agendamento
-    E enviar uma confirmação ao aluno.``
+    E enviar uma confirmação ao aluno.
  
- **Cenário 2: Fluxo Alternativo/Exceção**
-   ``Dado que o aluno deseja agendar um atendimento
-     Quando selecionar um horário já ocupado
-     Então o sistema deve informar a indisponibilidade
-     E apresentar horários alternativos.``
-  
+    Cenário 2: Fluxo Alternativo/Exceção
+    Dado que o aluno deseja agendar um atendimento
+    Quando selecionar um horário já ocupado
+    Então o sistema deve informar a indisponibilidade
+    E apresentar horários alternativos.
+  ```
 ---
 
 # **Autoavaliação INVEST**
