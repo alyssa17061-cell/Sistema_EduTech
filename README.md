@@ -257,6 +257,7 @@ para que eu organize minha rotina acadêmica de forma eficiente e clara para os 
     
  
  **US02**
+ 
     **Cenário 01: Caminho feliz**
    ``Dado que o aluno está autenticado no sistema
      E que existe um horário disponível para atendimento
@@ -272,17 +273,19 @@ para que eu organize minha rotina acadêmica de forma eficiente e clara para os 
 
 
 **US04**
+
   **Cenário 01: Caminho feliz**
-  ``Dado que um aluno foi identificado como estando em risco de evasão
-    Quando o coordenador cadastrar um plano de recuperação
-    Então o sistema deve armazenar as ações definidas
-    E associar o plano ao aluno.``
+  ``Dado que o aluno está autenticado no sistema
+    E que existe um horário disponível para atendimento
+    Quando o aluno selecionar data, horário e modalidade de atendimento
+    Então o sistema deve registrar o agendamento
+    E enviar uma confirmação ao aluno.``
  
  **Cenário 2: Fluxo Alternativo/Exceção**
-   ``Dado que existe um plano de recuperação ativo
-     Quando o coordenador acessar o plano
-     Então o sistema deve exibir as ações realizadas
-     E o status atual de cada atividade.``
+   ``Dado que o aluno deseja agendar um atendimento
+     Quando selecionar um horário já ocupado
+     Então o sistema deve informar a indisponibilidade
+     E apresentar horários alternativos.``
   
 ---
 
